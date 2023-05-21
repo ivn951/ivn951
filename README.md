@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivn951
 - 👀 I’m interested in GIS and Data Science - Spatial Planner
-- 🌱 I’m currently learning Geographic Data Science with Geopandas
+- 🌱 I’m currently learning Geographic Data Science with Geopandas and GeoAI
 - 💞️ I’m looking to collaborate on GIS and Data Analysis 
 - 📫 How to reach me : https://www.linkedin.com/in/ivano-giuliano/
 
